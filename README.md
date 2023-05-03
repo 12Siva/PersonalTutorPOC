@@ -22,6 +22,7 @@ The agent will then create reminders to test the knowledge of a previous topic o
 ## Example Bard conversation given the prompt
 ![Screenshot 2023-05-03 at 3 28 04 AM](https://user-images.githubusercontent.com/7332619/235893539-a0739f5e-9157-48c3-a105-9fe1dc9065c6.png)
 
+![Screenshot 2023-05-03 at 3 37 07 AM](https://user-images.githubusercontent.com/7332619/235893764-d467bf28-9855-4019-9420-6c916aae41c9.png)
 
 ### Development Resources
 
