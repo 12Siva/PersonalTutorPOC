@@ -16,10 +16,15 @@ The agent will then create reminders to test the knowledge of a previous topic o
 
 
 # System Design
+![System Diagram](https://github.com/12Siva/PersonalTutorPOC/blob/4dc35c8ce2eee9812f649c60cba32ebdb2a88f78/System%20Design.png)
 
 
 # Example Bard conversation given the prompt
 
 
-### Resource 
-* Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflow
+### Development Resources
+
+#### Implementation Details
+* Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflows
+    
+    ![Reference](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
