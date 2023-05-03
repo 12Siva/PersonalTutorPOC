@@ -30,6 +30,6 @@ The agent will then create reminders to test the knowledge of a previous topic o
 * Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflows
     
     ![Reference](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
-* LLM model API - Google PaLM and MakerSuite 
+* One option for LLM model API is via Google PaLM and MakerSuite 
 
     ![Reference](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
