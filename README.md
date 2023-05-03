@@ -1,4 +1,4 @@
-# PersonalTutorPOC
+# Personal Tutor Agent
 Proof of concept for a personal tutor agent
 
 # Objective 
