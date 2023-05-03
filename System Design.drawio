@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-05-03T10:22:03.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="2j-fyrqihO_ANb04f7v9" version="21.2.6" type="device">
+  <diagram name="Page-1" id="UVFmpenOWzMtIAihim1b">
+    <mxGraphModel dx="3085" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-11" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Student Personal Device&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;Example: iPhone" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="470" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufWwXe2Km7nXcZ6Lh-D-1" target="bufWwXe2Km7nXcZ6Lh-D-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-1" value="LLM Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufWwXe2Km7nXcZ6Lh-D-2" target="bufWwXe2Km7nXcZ6Lh-D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-2" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Prompt:&lt;/u&gt;&lt;/b&gt; You are a tutor for the subject of &lt;b&gt;{subject}&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Your objective is to create a set of concepts and reminders for the student&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66.25" y="240" width="307.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufWwXe2Km7nXcZ6Lh-D-3" target="bufWwXe2Km7nXcZ6Lh-D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-3" value="iPhone Shortcuts APP to automate reminder creation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufWwXe2Km7nXcZ6Lh-D-5" target="bufWwXe2Km7nXcZ6Lh-D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-5" value="iPhone Reminder" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bufWwXe2Km7nXcZ6Lh-D-7" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
