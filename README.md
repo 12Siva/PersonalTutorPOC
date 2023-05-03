@@ -8,9 +8,12 @@ The tutor agent will be confined to a single subject such as photography.
 The tutor agent will create a set of topics for the subject.
 
 For example, some topics for the subject of photography will be:
-    - Composition - creative topic
-    - Lighting - creative topic
-    - Lenses - technical topic
+    
+    * Composition - creative topic
+    
+    * Lighting - creative topic
+    
+    * Lenses - technical topic
 
 The agent will then create reminders to test the knowledge of a previous topic or teach a new topic.
 
