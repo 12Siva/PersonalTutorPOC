@@ -17,6 +17,12 @@ For example, some topics for the subject of photography will be:
 
 The agent will then create reminders to test the knowledge of a previous topic or teach a new topic.
 
+# UI/UX Flow
+
+- User inputs what subject they want to learn
+- User sees main topics of the subject
+
+
 
 # System Design
 ![System Diagram](https://github.com/12Siva/PersonalTutorPOC/blob/4dc35c8ce2eee9812f649c60cba32ebdb2a88f78/System%20Design.png)
