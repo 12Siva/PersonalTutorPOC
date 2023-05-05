@@ -42,3 +42,10 @@ The agent will then create reminders to test the knowledge of a previous topic o
 * One option for LLM model API is via Google PaLM and MakerSuite 
 
     [Reference](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
+
+### Expected Questions
+1. How will students discover this service?
+
+2. Will students return to this service?
+    - We plan to launch a companion app / game.
+  
