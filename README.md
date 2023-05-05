@@ -20,8 +20,8 @@ The agent will then create reminders to test the knowledge of a previous topic o
 # UI/UX Flow
 
 - User inputs what subject they want to learn
+- AI will outline what are the main topics of the subject
 - User sees main topics of the subject
-
 
 
 # System Design
