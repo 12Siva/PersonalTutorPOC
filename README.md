@@ -52,4 +52,8 @@ The agent will then create reminders to test the knowledge of a previous topic o
 
 2. Will students return to this service?
     - We plan to launch a companion app / game.
+    - Similar to the kids mental math game used with flash cards. We'll reward completion of the game with minted NFTs.
+
+3. What will the minted NFTs look like?
+    - Like baseball / Pokemon trading cards
   
