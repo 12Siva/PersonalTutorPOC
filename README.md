@@ -1,6 +1,9 @@
 # Personal Tutor Agent
 Proof of concept for a personal tutor agent
 
+# Target Audience
+High school / college students in developing countries. We'll start with Latin America. 
+
 # Objective 
 Leverage a large language model such as ChatGPT or Google's BARD to act as a tutor.
 
@@ -22,6 +25,7 @@ The agent will then create reminders to test the knowledge of a previous topic o
 - User inputs what subject they want to learn
 - AI will outline what are the main topics of the subject
 - User sees main topics of the subject
+    - User selects yes/no if    
 
 
 # System Design
