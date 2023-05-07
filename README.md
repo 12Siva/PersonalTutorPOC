@@ -60,5 +60,7 @@ The agent will then create reminders to test the knowledge of a previous topic o
     - Like baseball / Pokemon trading cards
     ![Screenshot 2023-05-06 at 1 39 11 PM](https://user-images.githubusercontent.com/7332619/236645750-62c37547-ac72-49ce-af9f-dcf1a0b0d83a.png)
 
-    
+4. How should we charge for this service?
+
+
   
