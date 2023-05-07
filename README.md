@@ -1,4 +1,6 @@
-# Personal Tutor Agent
+# Atlas
+
+### Overview
 Proof of concept for a personal tutor agent
 
 # Target Audience
