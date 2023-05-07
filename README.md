@@ -25,7 +25,7 @@ The agent will then create reminders to test the knowledge of a previous topic o
 - User inputs what subject they want to learn
 - AI will outline what are the main topics of the subject
 - User sees main topics of the subject
-    - User selects yes/no if    
+    - User selects yes/no if the topics are satisfactory   
 
 
 # System Design
