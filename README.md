@@ -40,12 +40,14 @@ The agent will then create reminders to test the knowledge of a previous topic o
 ### Development Resources
 
 #### Implementation Details
-* Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflows
+1. Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflows
     
     [Reference](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
-* One option for LLM model API is via Google PaLM and MakerSuite 
+1. One option for LLM model API is via Google PaLM and MakerSuite 
 
     [Reference](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
+
+1. [Reference](https://platform.openai.com/docs/api-reference?lang=python)
 
 ### Expected Questions
 1. How will students discover this service?
