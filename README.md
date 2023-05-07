@@ -31,6 +31,10 @@ The agent will then create reminders to test the knowledge of a previous topic o
 # System Design
 ![System Diagram](https://github.com/12Siva/PersonalTutorPOC/blob/4dc35c8ce2eee9812f649c60cba32ebdb2a88f78/System%20Design.png)
 
+Figure A: In the above simplified system diagram we outline how a user will interact with the LLM model to create a personal tutor agent.
+
+### Sequence Diagram - TBD
+
 
 ## Example Bard conversation given the prompt
 ![Screenshot 2023-05-03 at 3 28 04 AM](https://user-images.githubusercontent.com/7332619/235893539-a0739f5e-9157-48c3-a105-9fe1dc9065c6.png)
