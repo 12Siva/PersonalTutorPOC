@@ -33,7 +33,8 @@ The agent will then create reminders to test the knowledge of a previous topic o
 
 Figure A: In the above simplified system diagram we outline how a user will interact with the LLM model to create a personal tutor agent.
 
-### Sequence Diagram - TBD
+### Sequence Diagram
+![Screenshot 2023-05-07 at 10 39 09 AM](https://user-images.githubusercontent.com/7332619/236693523-8f058215-b493-43a0-9026-fdddc532312e.png)
 
 
 ## Example Bard conversation given the prompt
@@ -66,5 +67,6 @@ Figure A: In the above simplified system diagram we outline how a user will inte
 
 4. How should we charge for this service?
 
+5. What keeps the student engaged with the service?
 
   
