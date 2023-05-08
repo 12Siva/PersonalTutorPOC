@@ -50,11 +50,9 @@ Figure A: In the above simplified system diagram we outline how a user will inte
 1. Steamship-packages - https://github.com/steamship-packages - Wrapper for the LLM model workflows
     
     [Reference](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
-1. One option for LLM model API is via Google PaLM and MakerSuite 
+1. One option for LLM model API is via Google PaLM and MakerSuite [Reference](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
 
-    [Reference](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
-
-1. [Reference](https://platform.openai.com/docs/api-reference?lang=python)
+1. We are leveraging the OpenAI LLM [Reference](https://platform.openai.com/docs/api-reference?lang=python)
 
 ### Expected Questions
 1. How will students discover this service?
@@ -70,5 +68,7 @@ Figure A: In the above simplified system diagram we outline how a user will inte
 4. How should we charge for this service?
 
 5. What keeps the student engaged with the service?
+
+6. What are the foundational models this is built on top of?
 
   
