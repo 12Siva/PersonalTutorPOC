@@ -1,7 +1,7 @@
 # Atlas
 
 ### Overview
-Proof of concept for a personal tutor agent
+A library for a personalized personal tutor AI agent. 
 
 # Target Audience
 High school / college students in developing countries. We'll start with Latin America. 
@@ -70,5 +70,13 @@ Figure A: In the above simplified system diagram we outline how a user will inte
 5. What keeps the student engaged with the service?
 
 6. What are the foundational models this is built on top of?
+
+7. How will we mint the NFTs?
+
+
+### Future Work
+
+1. Proof of concept for minting NFTs on OpenSea
+
 
   
