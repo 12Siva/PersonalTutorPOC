@@ -4,6 +4,6 @@ Today we are proud to unveil our newest product at Atlas Inc. It is an AI powere
 Now anyone can have a personal tutor for any subject they want to learn. For childrens we offer a wide variety of creative topics such as photography, origami, or Kirigami.
 For our older user base we offer a wide variety of technical topics such as programming, cooking, or project management. 
 
-The personal tutor will even make flashcards for users so, they easily retain the knowledge.
+The personal tutor will even make flashcards for users so, our customers can easily refresh their memory on topics they have already mastered. For our younger audience members it is a way for them to easily practice while they are mastering the topic of choice.
 
-We have partnered with [OpenSea](https://opensea.io/) so; successful completion of each topic will enable a NFT for the user that they can trade. 
+As of 2025, we have partnered with [OpenSea](https://opensea.io/) so; successful completion of each topic will enable a NFT for the user that they can trade. 
