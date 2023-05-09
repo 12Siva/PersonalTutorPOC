@@ -1,7 +1,21 @@
 # Atlas
 
 ### Overview
-A library for a personalized personal tutor AI agent. 
+> 🚀 Everything you need to build your own AI agent for tutoring! 🚀
+
+# 🌊 Quick Start Guide
+
+Prerequisites:  [Python](https://www.tutorialspoint.com/python/python_quick_guide.htm) plus [Typescript](https://www.typescriptlang.org/docs/)
+
+> Check out the package locally
+```bash
+gh repo clone 12Siva/PersonalTutorPOC
+```
+
+> Install the python virtual environment
+```
+https://docs.python.org/3/library/venv.html
+```
 
 # Target Audience
 High school / college students in developing countries. We'll start with Latin America. 
