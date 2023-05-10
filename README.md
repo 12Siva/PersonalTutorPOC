@@ -12,13 +12,20 @@ Prerequisites:  [Python](https://www.tutorialspoint.com/python/python_quick_guid
 gh repo clone 12Siva/PersonalTutorPOC
 ```
 
-> Install the python virtual environment
+> Leverage the python virtual environment to bootstrap the dependencies [TODO](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 ```
-https://docs.python.org/3/library/venv.html
+https://packaging.python.org/en/latest/discussions/wheel-vs-egg/ 
 ```
 
-# Target Audience
-High school / college students in developing countries. We'll start with Latin America. 
+# High Level Overview
+
+# System Design
+![System Diagram](https://github.com/12Siva/PersonalTutorPOC/blob/4dc35c8ce2eee9812f649c60cba32ebdb2a88f78/System%20Design.png)
+
+Figure A: In the above simplified system diagram we outline how a user will interact with the LLM model to create a personal tutor agent.
+
+### Sequence Diagram
+![Screenshot 2023-05-07 at 10 39 09 AM](https://user-images.githubusercontent.com/7332619/236693523-8f058215-b493-43a0-9026-fdddc532312e.png)
 
 # Objective 
 Leverage a large language model such as ChatGPT or Google's BARD to act as a tutor.
@@ -36,6 +43,17 @@ For example, some topics for the subject of photography will be:
 
 The agent will then create reminders to test the knowledge of a previous topic or teach a new topic.
 
+# Documentaion 📚
+Documentation, tutorials, challenges, and many more resources, visit: docs.sofia.io
+
+# 🔭 Learning Solidity
+📕 Read the docs: https://docs.sofia.org
+
+📚Go through each of the dependents for this library:
+
+    * VirtualEnv: https://docs.python.org/3/library/venv.html
+
+
 # UI/UX Flow
 
 - User inputs what subject they want to learn
@@ -44,13 +62,7 @@ The agent will then create reminders to test the knowledge of a previous topic o
     - User selects yes/no if the topics are satisfactory   
 
 
-# System Design
-![System Diagram](https://github.com/12Siva/PersonalTutorPOC/blob/4dc35c8ce2eee9812f649c60cba32ebdb2a88f78/System%20Design.png)
 
-Figure A: In the above simplified system diagram we outline how a user will interact with the LLM model to create a personal tutor agent.
-
-### Sequence Diagram
-![Screenshot 2023-05-07 at 10 39 09 AM](https://user-images.githubusercontent.com/7332619/236693523-8f058215-b493-43a0-9026-fdddc532312e.png)
 
 
 ## Example Bard conversation given the prompt
