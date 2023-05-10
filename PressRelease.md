@@ -9,7 +9,7 @@ The personal tutor will even make flashcards for users so, our customers can eas
 As of 2030, we have partnered with [OpenSea](https://opensea.io/) so; successful completion of each topic will mint a NFT for the user. The user can then trade the NFT if they choose to.
 
 When we started Atlas Inc our founder had a vision to democratize education, so everyone from young to old, rich to poor can learn anything they want at any time for free. 
-We initially started out as a flash cards app insipired by Duolingo, Chegg, and Khan Academy. With the rise of LLM model at 2023 the founding team decided to build a generative AI engine to seed Atlas' current product called Sofia.
+We initially started out as a flash cards app insipired by Duolingo, Chegg, and Khan Academy. With the rise of LLM model and GAN models during 2023 - 2050 the founding team decided to build pivot into generative AI engine to seed Atlas' current product called Sofia, a personalized AI tutor agent.
 
 #### Abstract
 
