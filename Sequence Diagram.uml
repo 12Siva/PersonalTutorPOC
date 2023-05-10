@@ -4,12 +4,13 @@ actor OpenAI #99FF99
 ' The only difference between actor
 'and participant is the drawing
 participant Student
-participant "Atlas" as Personal_Tutor_Agent #99FF99
+participant "Sofia" as Personal_Tutor_Agent #99FF99
 /' You can also declare:
    participant L as "I have a really\nlong name"  #99FF99
   '/
 
 OpenAI->Student: 'What would like to learn today?'
 OpenAI<--Student: 'How do I learn photography?'
-Student->Personal_Tutor_Agent: 'Okay, I want to learn photography.'
+Student->Personal_Tutor_Agent: 'In order to learn photography, you need to master technical and creative topics. Do you want to still learn photography?'
+Student->Personal_Tutor_Agent: 'Yes, lets proceed.'
 @enduml
