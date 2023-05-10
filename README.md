@@ -25,7 +25,9 @@ https://packaging.python.org/en/latest/discussions/wheel-vs-egg/
 Figure A: In the above simplified system diagram we outline how a user will interact with the LLM model to create a personal tutor agent.
 
 ### Sequence Diagram
-![Screenshot 2023-05-07 at 10 39 09 AM](https://user-images.githubusercontent.com/7332619/236693523-8f058215-b493-43a0-9026-fdddc532312e.png) - outdated as of 5/9/2023
+![Screenshot 2023-05-07 at 10 39 09 AM](https://user-images.githubusercontent.com/7332619/236693523-8f058215-b493-43a0-9026-fdddc532312e.png) 
+
+_💥 Note: The above diagram is outdated as of 5/9/2023 💥_ 
 
 # Objective 
 Leverage a large language model such as ChatGPT or Google's BARD to act as a tutor.
