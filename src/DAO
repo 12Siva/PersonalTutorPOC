@@ -1,8 +1,0 @@
-class OpenSeaDAO
-  
-  def __init__(self):
-    '''
-      Initial constructor for OpenSea data accessor object
-    '''
-    
-    # TODO see if there is a python API wrapper for https://docs.opensea.io/reference/api-overview
