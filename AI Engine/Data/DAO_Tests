@@ -1,0 +1,12 @@
+import unittest
+
+class DAOTests(unittest.TestCase, OpenAIDao):
+
+    def test_transport_text_happy_path(self):
+        self.assertEqual('foo'.upper(), 'FOO')
+   
+   def test_transport_text_expected_failure_path(self):
+       self.assertEqual('foo'.upper(), 'foo')
+
+if __name__ == '__main__':
+    unittest.main()
