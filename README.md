@@ -1,4 +1,4 @@
-# Atlas
+# Atlas 🌎🌍🌏
 
 ### Overview
 > 🚀 Everything you need to build your own AI agent for tutoring! 🚀
@@ -46,14 +46,20 @@ For example, some topics for the subject of photography will be:
 The agent will then create reminders to test the knowledge of a previous topic or teach a new topic.
 
 # Documentaion 📚
-Documentation, tutorials, challenges, and many more resources, visit: docs.sofia.io
+Documentation, tutorials, challenges, and many more resources, visit: docs.atlas.io
 
-# 🔭 Learning Solidity
-📕 Read the docs: https://docs.sofia.org
+# 🔭 Learning Atlas
+📕 Read the docs: https://docs.atlas.org
 
-📚Go through each of the dependents for this library:
+📚Go through each of the dependencies for this library:
 
     * VirtualEnv: https://docs.python.org/3/library/venv.html
+    * Django: https://docs.djangoproject.com/en/4.2/
+    * AWS: https://docs.aws.amazon.com/
+    * Terraform: https://terraform-docs.io/
+    * Polychain: https://github.com/polynetwork/docs/blob/master/cosmos/README.md
+    * ETH wrapper: https://github.com/scaffold-eth/scaffold-eth/blob/matic/README.md
+    * OpenSea: https://opensea.io/
 
 
 # UI/UX Flow
@@ -61,9 +67,19 @@ Documentation, tutorials, challenges, and many more resources, visit: docs.sofia
 - User inputs what subject they want to learn
 - AI will outline what are the main topics of the subject
 - User sees main topics of the subject
-    - User selects yes/no if the topics are satisfactory   
+    - User selects yes/no if the topics are satisfactory  
 
+##### TODO
+1. Add illustration of how the memory managment game / Flash Cards will look like
 
+    Step 1: Learn Illustrator
+        - maybe we can leverage Google Spreadsheets for this?
+
+    Step 2: Upload screen mock-ups to github repository
+
+    Step 3: Add them to README.md and to PressRelease.md under the 2nd pivot chapter (crypto-currency section)
+    
+2. Add FAQ Section to PressRelease.md to generate the PRFAQ doc
 
 
 
