@@ -123,4 +123,7 @@ Documentation, tutorials, challenges, and many more resources, visit: docs.atlas
 1. Proof of concept for minting NFTs on OpenSea
 
 
-  
+2. Go through to learn corporate finance for Pitchbook:
+
+
+![Screenshot 2023-05-10 at 8 23 12 PM](https://github.com/12Siva/PersonalTutorPOC/assets/7332619/a9ed0ff4-7bd3-4769-83e5-1fd13b508566)
