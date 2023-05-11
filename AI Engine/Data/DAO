@@ -1,0 +1,15 @@
+import openai
+
+class OpenAIDao
+    """
+      A simple DAO class to access OpenAI
+      https://platform.openai.com/docs/quickstart/build-your-application
+    """
+
+def __init__(self, OPENAI_API_Key):
+    self.OPEN_API_Key = OPENAI_API_Key
+    
+def transport_text(self, text):
+    # TODO: Implement method
+    # Perhaps we can leverage this wrapper? https://github.com/openai/openai-python
+    
