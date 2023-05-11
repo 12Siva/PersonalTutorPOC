@@ -25,9 +25,4 @@ After the great financial crisis of 2008 - 2009 the company's hopes of an IPO we
 
 With the hope of becoming succesful one of the founders decided to make the AI engine more attractive to customers by leveraging NFTs during the second crypto-currency boom of 2021. They leveraged the ETH blockchain ans SOL blockchains to enable a flash card system into the AI engine. 
 
-
-
-
-
-
-
+![Screenshot 2023-05-10 at 7 35 50 PM](https://github.com/12Siva/PersonalTutorPOC/assets/7332619/850df23e-0b0a-4c91-b30a-1922504ec3d0)
