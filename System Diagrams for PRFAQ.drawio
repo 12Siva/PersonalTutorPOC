@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" modified="2023-05-11T02:36:04.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="jyTorj3qDEOHeVsm9MdM" version="21.2.9" type="device">
+  <diagram name="Page-1" id="-tnz4GwW7JQZUKIHy_hX">
+    <mxGraphModel dx="1191" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-1" target="jo0rotCzl7eyrx6pfaKf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-1" value="Amazon" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-2" value="Polyester " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-3" target="jo0rotCzl7eyrx6pfaKf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-3" value="Books and other supplies" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-5" value="Paper / Plastic" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-9" target="jo0rotCzl7eyrx6pfaKf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-9" value="Hercules - Business Cards" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-14" target="jo0rotCzl7eyrx6pfaKf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-14" value="Trees" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-16" target="jo0rotCzl7eyrx6pfaKf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-16" value="Petroleum" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-19" target="jo0rotCzl7eyrx6pfaKf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-19" value="Inventory Management" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-22" target="jo0rotCzl7eyrx6pfaKf-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="894" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-22" value="Alloys" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-23" target="jo0rotCzl7eyrx6pfaKf-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-23" value="Ulysses - AI Engine for Pins" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-24" target="jo0rotCzl7eyrx6pfaKf-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-24" value="&lt;div&gt;Digital Wallets plus Metal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-29" value="CNN ML Model" style="shape=singleArrow;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-36" target="jo0rotCzl7eyrx6pfaKf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-36" value="Integration" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-47" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-2" target="jo0rotCzl7eyrx6pfaKf-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-48" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;GAN Deep Learning Model&lt;/font&gt;" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-54" value="Atlas - AI engine for personal tutoring" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="Actor" Student="" id="jo0rotCzl7eyrx6pfaKf-56">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+            <mxGeometry x="410" y="690" width="45" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-62" value="Student" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-63" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#82b366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;" edge="1" parent="1" source="jo0rotCzl7eyrx6pfaKf-56" target="jo0rotCzl7eyrx6pfaKf-54">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="860" as="sourcePoint" />
+            <mxPoint x="470" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-64" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="680" y="729.5" as="sourcePoint" />
+            <mxPoint x="785" y="729.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo0rotCzl7eyrx6pfaKf-65" value="NFTs" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="790" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
