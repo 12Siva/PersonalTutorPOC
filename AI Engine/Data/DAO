@@ -1,6 +1,6 @@
 import openai
 
-global openai.api_key
+global openai.api_key = 'PLACEHOLDER'
 
 class OpenAIDao
     """
