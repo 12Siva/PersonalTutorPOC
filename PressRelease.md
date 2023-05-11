@@ -19,7 +19,12 @@ Atlas Inc started off as a simple platform for artists to create and colloborate
 
 The co-founders quickly retrained their ML model to optimize for pins. Taking in a lot of training data of stickers, pins, and business cards. Leveraging state of the art transfer learning techniques and open source LLMs and GANs they were able to train a custom new ML model called Ulysses that was able that was optimal for music festival go-ers to easily exchange business information. It also addressed the environmental concerns that started in the early 2020s; by saving trees. Finding moderate success in the  asian markets where personal hygiene and business customs are highly respected the company reached a revenues of million dollars and become profitable for the 1st time in 2005. 
 
-After the great financial crisis of 2008 - 2009 the company's hopes of an IPO were dashed, so the company decided to scale vertically in the clothing markets starting with the Latin American markets. Leveraging their existing business cards and lapel pins AI engine.
+After the great financial crisis of 2008 - 2009 the company's hopes of an IPO were dashed, so the company decided to scale vertically starting with the Latin American markets. Aiming to become profitable after signficant losses in the order of billions and a negative EPS of $2.56 in the asian business card market the founders decided to pivot the business model into a vertical slice of the education market. Based on the advice of Scott Galloway a NYU professor in marketing and co-host of the successful podcast Pivot. Leveraging their existing business cards and lapel pins AI engine. The vertical slice of the company become like:
+
+![Screenshot 2023-05-10 at 7 23 02 PM](https://github.com/12Siva/PersonalTutorPOC/assets/7332619/8199dd17-a647-496e-ae83-5df854f11215)
+
+
+
 
 
 
