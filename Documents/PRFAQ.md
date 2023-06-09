@@ -29,6 +29,41 @@ With the hope of becoming succesful one of the founders decided to make the AI e
 
 With the successful pivot the founders focused on 2025 to try for an IPO. Leveraging 2023 - 2024 to create a pitchbook.
 
+Taking feedback from the roadshow, Atlas deep dived into the flash card component of the AI tutor. They carved it out into a standalone app. They created the following press release for the flash cards app.
+
+```
+FOR IMMEDIATE RELEASE
+
+Contact:
+[Your Name]
+[Your Email]
+
+New Flash Cards App Helps Students Learn Faster and More Effectively
+
+[City, State] – [Date] – A new flash cards app, So-Cards also referred to as Soft Cards, is now available for download on the App Store and Google Play. So-Cards uses spaced repetition, a proven learning technique that helps users learn faster and more effectively.
+
+With spaced repetition, users are shown flash cards also referred to as reflection cards at increasingly spaced intervals based on their performance. This helps to ensure that users are only shown the cards they need to review, and that they are not wasting time reviewing cards they already know.
+
+So-Cards also includes a number of other features that make it an effective learning tool. These features include:
+
+    A variety of question types, including multiple choice, true/false, and fill-in-the-blank
+    The ability to create and share custom flash cards
+    A built-in timer to help users track their progress
+    A variety of study modes, including timed, untimed, and random
+
+So-Cards is available for free on the App Store and Google Play. A premium subscription is available for users who want to unlock additional features, such as the ability to create unlimited flash cards and the ability to remove ads.
+
+“We are excited to launch So-Cards and help students learn faster and more effectively,” said [Your Name], founder of [Company Name]. “We believe that spaced repetition is the most effective way to learn, and we are confident that [App Name] will be a valuable tool for students of all ages.”
+```
+
+The breakout of the flash card components from the AI agent Sofia allowed the AI agent to be better tuned for teaching and generating interest in new topics.
+
+
+### About Atlas Inc
+
+Atlas Inc is a technology company that develops educational software. The company was founded in 1984 by 5 co-founders, former teachers educational researchers, and software development engineers. Atlas Inc is headquartered in Seattle, WA.
+
+
 #### Frequently Asked Questions
 
 1. Was the flash card system with NFTs succcessful? 
