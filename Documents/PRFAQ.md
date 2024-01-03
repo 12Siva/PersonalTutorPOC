@@ -69,3 +69,4 @@ Atlas Inc is a technology company that develops educational software. The compan
 1. Was the flash card system with NFTs succcessful? 
 2. What market was it designed for and where was it being used?
 3. What does the UI/UX interface look like?
+4. How will we charge for it?
